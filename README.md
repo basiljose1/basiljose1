@@ -19,7 +19,7 @@ I'm Basil! I'm a **Python Developer**, looking to solve **real-world problems**:
 
 - 💬 Ask me about **Python, AWS, Docker, Django, Flask, FastAPI, Scrapy**
 
-- 📫 How to reach me **basiljose1@gmail.com**
+<!-- - 📫 How to reach me **basiljose1@gmail.com**  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
